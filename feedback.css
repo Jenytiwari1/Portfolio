@@ -1,0 +1,192 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+#form-title{
+    color: #261a6b;
+    margin-left: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.form {
+    background-color: #7394d1;
+    border-radius: 7px;
+    border:none;
+    width: 350px;
+    height: 40px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 15px;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.form::placeholder{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    text-align: center;
+}
+#gender-title{
+    font-size: 18px;
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 20px;
+    margin-top: 50px;
+  
+
+}
+#male-box{
+    background-color: #7394d1;
+    color: white;
+    padding: 7px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#female-box{
+    background-color: #7394d1;
+    color: white;
+    padding: 7px;
+    border-radius: 5px;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+    #day{
+        width:35px;
+        border-radius:5px;
+        background-color:#7394d1;
+        border:none;
+        height:30px;
+        margin-left:5px;
+        color:white;
+        align-items: center;
+        justify-content: center;
+     
+      }
+
+      #month{
+        width:35px;
+        border-radius:5px;
+        background-color:#7394d1;
+        border:none;
+        height:30px;
+        margin-left:5px;
+        color:white;
+       
+       
+      }
+      
+      #yr{
+        width:55px;
+        border-radius:5px;
+        background-color:#7394d1;
+        border:none;
+        height:30px;
+        margin-left:5px;
+        color:white;
+   
+       
+      }
+      
+      #day::placeholder{
+        color:white;
+        font-size:11px;
+        font-family:"times new roman";
+        text-align:center;
+      }
+      #month::placeholder{
+        color:white;
+        font-size:11px;
+        font-family:"times new roman";
+        text-align:center;
+      }
+      #yr::placeholder{
+        color:white;
+        font-size:11px;
+        font-family:"times new roman";
+        text-align:center;
+      }
+      
+      #password {
+        background-color:#7394d1;
+        border-radius:7px;
+        border:none;
+        width:360px;
+        height:40px;
+        margin-left:30px;
+        margin-right:30px;
+        margin-top:5px;
+        text-align:center;
+        color:white;
+        font-size:18px;
+        font-family:"times new roman";
+      }
+      
+      #password::placeholder{
+        color:white;
+        font-size:17px;
+        font-family:"times new roman";
+        text-align:center;
+      }
+      
+      #Term-1 {
+        display:inline-block;
+        font-size:15px;
+        font-weight:700;
+        color:black;
+        font-family:"times new roman";
+      }
+      #Term-2 {
+        display:inline-block;
+        font-size:15px;
+        font-weight:700;
+        color:#42c5f5;
+        font-family:"times new roman";
+      }
+      #agree {
+      
+        margin-left:560px;
+        border-radius:50%;
+        
+      }
+      
+      #submit {
+        
+       color: white;
+       background-color: #7394d1;
+       border: none;
+       border-radius: 5px;
+       font-size: 18px;
+       font-family: 'Times New Roman', Times, serif;
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       text-decoration: none;
+       text-decoration: none;
+
+      }
+      #DOB{
+        display:flex;
+        align-items: center;
+        justify-content: center;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: 400;
+        font-size: 18px;
+
+        
+      }
+#dob1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
